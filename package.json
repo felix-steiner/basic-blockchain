@@ -12,6 +12,9 @@
     "blockchain",
     "nodejs"
   ],
+  "repository": {
+    "url": "https://github.com/felix-steiner/basic-blockchain"
+  },
   "author": "Felix Steiner",
   "license": "MIT",
   "devDependencies": {
